@@ -1,3 +1,2 @@
 *.java
-aws/*.java
-aws/*.css
+devops/
