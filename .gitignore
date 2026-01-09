@@ -1,1 +1,5 @@
 devops/
+ansible/**
+!ansible/
+!ansible/*.py
+
